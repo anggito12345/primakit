@@ -14,7 +14,8 @@
     },
     "autoload": {
         "psr-0": {
-            "primaque": "src/"
+            "primaque": "src/",
+            "primalog": "src/"
         }
     }
 
