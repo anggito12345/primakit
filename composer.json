@@ -1,0 +1,13 @@
+{
+    "name": "anggito/primakit",
+    "description": "general helper tools",
+    "type": "library",
+    "authors": [
+        {
+            "name": "anggito",
+            "email": "anggito@kanosolution.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
