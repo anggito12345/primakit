@@ -1,9 +1,9 @@
 <?php
 
-namespace primaque;
+namespace Primaque;
 
 
-class base
+class Base
 {
     public static function NewQuery($data = [])
     {
